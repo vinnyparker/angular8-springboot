@@ -1,4 +1,4 @@
-package br.com.govnetrh.demo;
+package br.com.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
